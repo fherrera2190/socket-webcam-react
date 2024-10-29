@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/createroombutton.tsx","./src/components/userlocalvideo.tsx","./src/components/userremotevideo.tsx","./src/context/socketcontext.tsx","./src/interfaces/socket-context-type.interface.ts","./src/pages/errorpage.tsx","./src/pages/meetingroom.tsx","./src/routes/root.tsx"],"version":"5.6.3"}
