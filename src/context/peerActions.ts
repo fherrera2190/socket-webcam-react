@@ -1,5 +1,4 @@
-export const ADD_PEER = "ADD_PEER" as const;
-export const REMOVE_PEER = "REMOVE_PEER" as const;
+import { ADD_PEER, REMOVE_PEER } from "../constants";
 
 export const addPeerAction = (peerId: string, stream: MediaStream) => ({
   type: ADD_PEER,

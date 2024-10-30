@@ -1,0 +1,1 @@
+export type PeerState = Record<string, { stream: MediaStream }>;
